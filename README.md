@@ -8,6 +8,8 @@
 
 ## Topics
 - [✔️] Day 1 > [What is Virtualization ?](Days/day01.md)
+- [✔️] Day 2 > [Hypervisor](Days/day01.md)
+- [✔️] Day 3 > [Vmware Vsphere](Days/day01.md)
 
 
 ## Recources

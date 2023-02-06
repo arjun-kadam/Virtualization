@@ -12,7 +12,7 @@
 - Type -1 acts as thier own OS.
 - It is More Secure.
 - Vmware ESXi is Type-1 Hypervisor that run directly on Sever(Machine) Hardware without depend on OS.
-- ESXi provide a virtualization layer thet abstract the CPU, Storage, memory and networking resources of the physical host(Hardware/Sever) into multiple virtual machines.
+- ESXi provide a virtualization layer that abstract the CPU, Storage, memory and networking resources of the physical host(Hardware/Sever) into multiple virtual machines.
 <img src="Images/t1.png?raw=true" alt="Type-1">
 
 ## Hypervisor Type-2
@@ -74,4 +74,5 @@
   </table>
 
 <br><br>
+
   This is about Hypervisor. In next day we will see Vmware Vsphere in detail.  [HERE ](day02.md)
