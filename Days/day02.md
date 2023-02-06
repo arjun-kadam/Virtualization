@@ -75,4 +75,4 @@
 
 <br><br>
 
-  This is about Hypervisor. In next day we will see Vmware Vsphere in detail.  [HERE ](day02.md)
+  This is about Hypervisor. In next day we will see Vmware Vsphere in detail.  [HERE ](day03.md)
