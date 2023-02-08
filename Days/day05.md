@@ -17,5 +17,5 @@
 
   <hr>
   
-  Thisis basic guide about HA.There is many more available on Internet so keep exploring. Here I am finishing Virtualization If you want to learn more then you can learn from YouTube and other resources for FREE. <br>
+  This is basic guide about HA.There is many more available on Internet so keep exploring. Here I am finishing Virtualization If you want to learn more then you can learn from YouTube and other resources for FREE. <br>
   Happy Learning !!!!!
