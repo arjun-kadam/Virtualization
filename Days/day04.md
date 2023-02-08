@@ -53,4 +53,4 @@
 
 <hr>
 
-This is for today. Now on next & last day we will see about [High Availibility](day05.md)
+This is for today. Now on next & last day we will see about [High Availability](day05.md)

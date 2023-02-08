@@ -11,8 +11,9 @@
 - [✔️] Day 2 > [Hypervisor](Days/day02.md)
 - [✔️] Day 3 > [Vmware Vsphere](Days/day03.md)
 - [✔️] Day 4 > [VM Migration](Days/day04.md)
+- [✔️] Day 5 > [High Availability](Days/day05.md)
+<center>---<>---<>---<>--- The End ---<>---<>---<>---</center>
 
-
-## Recources
+## Resources
 - Youtube
 - Blogs
