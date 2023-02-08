@@ -7,6 +7,8 @@
 - HA does not use Vmotion
 - Enable HA on the cluster setting in order to use HA.
 <img src="Images/HA.png?raw=true" alt="High Availability ">
+
+
 - For HA, We need following:
   - Cluster - Group of ESXi Host
   - Shared Storage
