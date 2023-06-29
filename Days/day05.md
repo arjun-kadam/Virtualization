@@ -1,6 +1,6 @@
 # High Availability (HA)
-- In High Availability when the hist crashes or fails the VM gets restarted on another host.
-- So there is very samll down time for restsrting VM.
+- In High Availability when the host crashes or fails the VM gets restarted on another host.
+- So there is very small down time for restarting VM.
 - It provide automatic sever failure detection.
 - HA is complete automated process.
 - No passive standby ESXi host is require neither any extra VM (No Need Backup)
@@ -17,5 +17,5 @@
 
   <hr>
   
-  This is basic guide about HA.There is many more available on Internet so keep exploring. Here I am finishing Virtualization If you want to learn more then you can learn from YouTube and other resources for FREE. <br>
+  This is basic guide about HA. There is many more available on Internet so keep exploring. Here I am finishing Virtualization If you want to learn more then you can learn from YouTube and other resources for FREE. <br>
   Happy Learning !!!!!
